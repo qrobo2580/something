@@ -1,0 +1,5 @@
+[{"Speed":10,"id":"1","type":"car"},
+ {"Speed":20,"id":"2","type":"humanoid"},
+ {"Speed":30,"id":"3","type":"motorbike"},
+ {"Speed":40,"id":"4","type":"bicycle"},
+ {"Speed":50,"id":"5","type":"goCart"}]
